@@ -7,7 +7,7 @@
 		<h2>Thanks For Registering</h2>
 	</div>
 	<div>
-		<a href="/basic/read"><button class="btn btn-default" type="submit">Main Page</button></a>
+		<a href="http://127.0.0.1:8000/basic/read"><button class="btn btn-default" type="submit">Main Page</button></a>
 	</div>
 </div>
 
